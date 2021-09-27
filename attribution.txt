@@ -1,0 +1,4 @@
+background: https://opengameart.org/content/bevouliin-free-mountain-game-background
+flappy bird character: https://bevouliin.com/flappy-box-bird-free-2d-game-sprites/
+bang: https://www.flaticon.com/free-icon/bang_4522271?term=bang&page=1&position=23&page=1&position=23&related_id=4522271&origin=search
+base tutorial: https://www.youtube.com/watch?v=lGJ9i6CYKyQ&list=RDCMUCEqc149iR-ALYkGM6TG-7vQ&index=1
